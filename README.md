@@ -1,2 +1,0 @@
-# bjwlNB.github.io
-blog
