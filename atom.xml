@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>爸气外漏</title>
+  
+  
+  <link href="https://bjwlnb.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://bjwlnb.github.io/"/>
+  <updated>2021-05-29T08:41:46.956Z</updated>
+  <id>https://bjwlnb.github.io/</id>
+  
+  <author>
+    <name>爸气外漏</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://bjwlnb.github.io/2021/05/13/test/"/>
+    <id>https://bjwlnb.github.io/2021/05/13/test/</id>
+    <published>2021-05-13T12:12:23.144Z</published>
+    <updated>2021-05-29T08:41:46.956Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
